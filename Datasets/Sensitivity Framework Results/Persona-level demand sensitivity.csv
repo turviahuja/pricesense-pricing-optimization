@@ -1,0 +1,5 @@
+persona,total_txns,pct_entry,pct_mass,pct_mid,pct_premium,pct_luxury,sensitivity_score,premium_tolerance_pct
+casual,9714,22.3,41.5,18.9,10.6,6.7,3.71,17.2
+budget,9637,22.6,40.5,19.4,11.1,6.3,3.63,17.4
+premium,9656,22.6,41.4,18.3,11.4,6.4,3.60,17.8
+fitness,9933,23.5,39.3,19.3,11.3,6.6,3.52,17.9

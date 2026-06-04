@@ -1,0 +1,41 @@
+claim,category,n,median_price,pct_premium_luxury
+vegan,"Meal Replacement",1517,47.5,77.5
+low-sugar,Unknown,890,41.65,64.8
+keto-friendly,Supplement,1173,42.38,61.4
+vegan,Supplement,1014,41.39,57.7
+low-sugar,Supplement,988,34.98,50.0
+clean-label,Unknown,580,28.35,49.7
+halal,Unknown,594,32.19,48.7
+halal,Supplement,1220,19.48,48.4
+high-protein,"Protein Shake",1718,28.14,47.9
+keto-friendly,"Meal Replacement",567,30.73,42.3
+high-protein,Supplement,1224,12.31,37.7
+clean-label,Supplement,936,16.18,33.7
+low-sugar,"Protein Bar",688,27.43,33.1
+clean-label,"Meal Replacement",948,25.13,31.8
+halal,"Meal Replacement",2490,20.79,26.4
+vegan,"Protein Shake",1202,19.02,22.8
+vegan,"Protein Bar",2251,17.85,19.3
+vegan,"Healthy Snack",1360,22.12,19.2
+low-sugar,"Meal Replacement",2746,13.11,18.4
+halal,"Protein Bar",1775,13.47,12.4
+clean-label,"Protein Bar",2546,21.68,11.4
+keto-friendly,"Protein Shake",1790,21.3,11.4
+halal,"Protein Shake",1209,9.4,9.3
+high-protein,"Meal Replacement",686,18.67,5.4
+clean-label,"Healthy Snack",2300,18.65,3.7
+high-protein,"Electrolyte Drink",913,27.51,2.4
+high-protein,"Healthy Snack",1243,19.53,1.9
+low-sugar,"Electrolyte Drink",900,14.51,1.7
+clean-label,"Protein Shake",894,19.39,1.0
+clean-label,"Electrolyte Drink",916,18.45,0.9
+vegan,"Electrolyte Drink",1217,15.85,0.2
+high-protein,"Protein Bar",2715,15,0.0
+keto-friendly,"Electrolyte Drink",604,16.14,0.0
+keto-friendly,Unknown,292,20.54,0.0
+keto-friendly,"Healthy Snack",1252,18.58,0.0
+low-sugar,"Healthy Snack",911,13.44,0.0
+halal,"Electrolyte Drink",307,16.88,0.0
+keto-friendly,"Protein Bar",1466,15.32,0.0
+low-sugar,"Protein Shake",903,11.9,0.0
+vegan,Unknown,292,20.54,0.0

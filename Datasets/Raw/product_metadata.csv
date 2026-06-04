@@ -1,0 +1,151 @@
+product_id,category,claims,ingredient_tags,pack_size
+P001,Electrolyte Drink,"nut-free, clean-label","monk-fruit, oats, collagen",Single
+P002,Meal Replacement,"plant-based, halal, kosher, low-sugar","whey, oats",Single
+P003,Proten Shake,jain-friendly,monk-fruit,Single
+P004,Healthy Snack,vegan,stevia,4-Pack
+P005,Meal Replacement,"halal, low-sugar, vegan","whey, stevia",Single
+P006,Protein Shake,"gluten-free, halal, kosher",,Single
+P007,Supplement,"keto-friendly, plant-based","oats, monk-fruit, soy",12-Pack
+P008,Protein bar ,"diabetic-friendly, kosher","stevia, monk-fruit, almond-flour",Single
+P009,Electrolyte Drink,clean-label,"collagen, soy",Single
+P010,Healthy Snack,"clean-label, vegan, nut-free, kosher","pea-protein, oats, almond-flour",Single
+P011,Proten Shake,"kosher, jain-friendly, plant-based",collagen,Single
+P012,Healthy Snack,plant-based,"whey, monk-fruit",Single
+P013,Electrolyte Drink,"kosher, diabetic-friendly, clean-label","soy, collagen",Single
+P014,Protein Shake,"keto-friendly, gluten-free",pea-protein,4-Pack
+P015,Meal Replacement,"clean-label, diabetic-friendly","soy, stevia, monk-fruit",Single
+P016,Protein Shake,nut-free,soy,Single
+P017,Electrolyte Drink,jain-friendly,"collagen, soy",4-Pack
+P018,Protein Bar,diabetic-friendly,whey,Single
+P019,Meal Replacement,"vegan, halal, high-protein",collagen,12-Pack
+P020,Electrolyte Drink,"low-sugar, high-protein","collagen, oats, monk-fruit",4-Pack
+P021,Healthy Snack,diabetic-friendly,"whey, soy",Single
+P022,Protein Bar,"gluten-free, vegan, clean-label, keto-friendly","oats, whey",Single
+P023,Proten Shake,plant-based,soy,4-Pack
+P024,Supplement,"gluten-free, kosher","almond-flour, pea-protein",Single
+P025,Meal Replacement,"keto-friendly, vegan, low-sugar, diabetic-friendly","pea-protein, whey, soy",4-Pack
+P026,Electrolyte Drink,"gluten-free, diabetic-friendly, vegan","almond-flour, whey",4-Pack
+P027,Protein Shake,vegan,monk-fruit,12-Pack
+P028,Protein Shake,"kosher, plant-based, clean-label, gluten-free",,Single
+P029,Proten Shake,high-protein,"almond-flour, pea-protein",12-Pack
+P030,Electrolyte Drink,"gluten-free, kosher",oats,Single
+P031,Healthy Snack,"diabetic-friendly, jain-friendly",,Single
+P032,Protein bar ,gluten-free,almond-flour,Single
+P033,Healthy Snack,"clean-label, keto-friendly, high-protein",,Single
+P034,Proten Shake,nut-free,soy,Single
+P035,Proten Shake,"clean-label, vegan, keto-friendly, jain-friendly","monk-fruit, pea-protein",Single
+P036,Protein Bar,high-protein,"oats, whey, pea-protein",4-Pack
+P037,Supplement,"halal, keto-friendly, low-sugar","soy, almond-flour",4-Pack
+P038,Protein Bar,"high-protein, halal",pea-protein,Single
+P039,Protein Shake,"halal, kosher, keto-friendly, nut-free",stevia,4-Pack
+P040,Supplement,"high-protein, jain-friendly, nut-free","stevia, almond-flour",Single
+P041,Healthy Snack,"high-protein, gluten-free, diabetic-friendly, kosher","whey, oats",Single
+P042,Electrolyte Drink,kosher,"whey, collagen",Single
+P043,Protein bar ,"diabetic-friendly, high-protein, keto-friendly, clean-label",oats,Single
+P044,Supplement,high-protein,,4-Pack
+P045,Healthy Snack,"plant-based, kosher, low-sugar","oats, stevia",Single
+P046,Supplement,"gluten-free, clean-label",whey,Single
+P047,Meal Replacement,low-sugar,collagen,Single
+P048,Supplement,"nut-free, kosher, low-sugar","pea-protein, almond-flour, whey",4-Pack
+P049,Protein Shake,"high-protein, gluten-free, diabetic-friendly, nut-free",pea-protein,Single
+P050,Healthy Snack,"diabetic-friendly, gluten-free, kosher, high-protein","almond-flour, oats, pea-protein",4-Pack
+P051,Proten Shake,"vegan, gluten-free, halal","collagen, soy",4-Pack
+P052,Healthy Snack,"plant-based, low-sugar, kosher","monk-fruit, oats, almond-flour",Single
+P053,Healthy Snack,vegan,stevia,Single
+P054,Supplement,"clean-label, jain-friendly, halal, vegan","pea-protein, soy, monk-fruit",12-Pack
+P055,,"low-sugar, clean-label",,12-Pack
+P056,Proten Shake,"vegan, diabetic-friendly, jain-friendly","oats, monk-fruit, collagen",Single
+P057,Supplement,"keto-friendly, gluten-free, jain-friendly","almond-flour, oats",12-Pack
+P058,Protein bar ,"vegan, diabetic-friendly, kosher",stevia,Single
+P059,Protein Shake,"gluten-free, kosher, low-sugar","monk-fruit, pea-protein",Single
+P060,Proten Shake,"clean-label, jain-friendly, kosher","stevia, soy, almond-flour",12-Pack
+P061,Supplement,"vegan, high-protein, keto-friendly",,4-Pack
+P062,Protein bar ,"clean-label, diabetic-friendly, plant-based","soy, pea-protein",Single
+P063,Protein bar ,"low-sugar, keto-friendly, jain-friendly",monk-fruit,12-Pack
+P064,Electrolyte Drink,"nut-free, clean-label, diabetic-friendly","oats, monk-fruit, whey",12-Pack
+P065,,"nut-free, low-sugar","whey, stevia",Single
+P066,Protein bar ,"nut-free, gluten-free, kosher",oats,Single
+P067,Supplement,halal,"collagen, almond-flour, oats",Single
+P068,Healthy Snack,"keto-friendly, clean-label, gluten-free","pea-protein, oats",Single
+P069,Meal Replacement,plant-based,oats,Single
+P070,Protein bar ,"high-protein, vegan",monk-fruit,Single
+P071,Protein Bar,"plant-based, high-protein, keto-friendly",whey,Single
+P072,,"gluten-free, low-sugar, halal, kosher","monk-fruit, stevia",4-Pack
+P073,Protein Bar,"jain-friendly, high-protein, halal, keto-friendly","oats, collagen, almond-flour",Single
+P074,Proten Shake,"high-protein, gluten-free, clean-label, plant-based",almond-flour,Single
+P075,Meal Replacement,"halal, clean-label, gluten-free, vegan","monk-fruit, whey, pea-protein",4-Pack
+P076,Meal Replacement,"kosher, gluten-free, plant-based","whey, monk-fruit, almond-flour",Single
+P077,Protein Bar,diabetic-friendly,"oats, collagen",12-Pack
+P078,,"halal, vegan, keto-friendly, clean-label",whey,Single
+P079,Meal Replacement,"plant-based, clean-label, halal",,Single
+P080,Healthy Snack,"jain-friendly, clean-label, keto-friendly",whey,Single
+P081,Protein Bar,"vegan, nut-free",pea-protein,12-Pack
+P082,Protein bar ,nut-free,"oats, almond-flour, soy",Single
+P083,Proten Shake,"diabetic-friendly, keto-friendly",oats,4-Pack
+P084,Supplement,"halal, clean-label","soy, almond-flour",Single
+P085,Protein Bar,kosher,"monk-fruit, oats, pea-protein",4-Pack
+P086,Protein Bar,"plant-based, gluten-free, nut-free","monk-fruit, collagen, soy",Single
+P087,Proten Shake,"high-protein, gluten-free, halal","stevia, monk-fruit",Single
+P088,Electrolyte Drink,"halal, vegan, diabetic-friendly, keto-friendly","pea-protein, almond-flour, collagen",Single
+P089,Electrolyte Drink,"gluten-free, plant-based","whey, oats",Single
+P090,Protein Bar,"vegan, clean-label, low-sugar","whey, almond-flour, soy",4-Pack
+P091,Healthy Snack,clean-label,"soy, collagen",Single
+P092,Protein Bar,"jain-friendly, gluten-free, vegan","oats, monk-fruit",Single
+P093,Protein bar ,halal,"oats, pea-protein, monk-fruit",Single
+P094,Protein Bar,gluten-free,"pea-protein, soy, monk-fruit",Single
+P095,Protein bar ,halal,"monk-fruit, oats",Single
+P096,Electrolyte Drink,high-protein,"collagen, monk-fruit, stevia",4-Pack
+P097,Protein Bar,"vegan, kosher, plant-based, jain-friendly",,Single
+P098,Supplement,"kosher, nut-free",soy,Single
+P099,Supplement,"diabetic-friendly, jain-friendly, high-protein, vegan",almond-flour,Single
+P100,Protein bar ,"kosher, gluten-free",collagen,Single
+P101,Proten Shake,"keto-friendly, low-sugar, gluten-free, jain-friendly","pea-protein, almond-flour, monk-fruit",Single
+P102,Healthy Snack,"plant-based, kosher, vegan","pea-protein, collagen",4-Pack
+P103,Protein Shake,diabetic-friendly,"whey, almond-flour, collagen",4-Pack
+P104,Protein bar ,"kosher, jain-friendly, low-sugar, diabetic-friendly","oats, collagen, pea-protein",12-Pack
+P105,Meal Replacement,"gluten-free, halal","whey, collagen, pea-protein",12-Pack
+P106,Meal Replacement,"halal, jain-friendly","soy, almond-flour",Single
+P107,Electrolyte Drink,plant-based,"oats, monk-fruit, pea-protein",Single
+P108,Meal Replacement,"gluten-free, jain-friendly","stevia, almond-flour",12-Pack
+P109,Supplement,"low-sugar, keto-friendly, diabetic-friendly, nut-free",soy,Single
+P110,Protein bar ,"gluten-free, halal","pea-protein, soy",4-Pack
+P111,Proten Shake,"jain-friendly, diabetic-friendly","oats, stevia, collagen",Single
+P112,Electrolyte Drink,nut-free,"soy, almond-flour",Single
+P113,Meal Replacement,vegan,whey,4-Pack
+P114,Healthy Snack,"nut-free, jain-friendly, clean-label, keto-friendly","monk-fruit, oats",Single
+P115,Protein Bar,vegan,pea-protein,4-Pack
+P116,Protein Shake,"plant-based, gluten-free","whey, oats, collagen",Single
+P117,Meal Replacement,"low-sugar, jain-friendly, high-protein",almond-flour,Single
+P118,Healthy Snack,"kosher, nut-free, clean-label, vegan",monk-fruit,4-Pack
+P119,Protein Bar,"high-protein, low-sugar","almond-flour, monk-fruit, stevia",Single
+P120,Protein bar ,"clean-label, high-protein, jain-friendly",whey,Single
+P121,Proten Shake,"kosher, jain-friendly, gluten-free, high-protein",whey,4-Pack
+P122,Meal Replacement,"halal, high-protein, jain-friendly, keto-friendly",monk-fruit,4-Pack
+P123,Proten Shake,"gluten-free, keto-friendly, kosher, low-sugar","whey, collagen",Single
+P124,Meal Replacement,kosher,"monk-fruit, whey",Single
+P125,Meal Replacement,"plant-based, diabetic-friendly",,4-Pack
+P126,Meal Replacement,"nut-free, low-sugar","oats, almond-flour, monk-fruit",Single
+P127,Supplement,"vegan, low-sugar, diabetic-friendly, keto-friendly",soy,12-Pack
+P128,Meal Replacement,"jain-friendly, low-sugar, diabetic-friendly",,Single
+P129,Electrolyte Drink,low-sugar,"soy, monk-fruit, whey",Single
+P130,Meal Replacement,vegan,pea-protein,4-Pack
+P131,Proten Shake,"high-protein, low-sugar, nut-free","collagen, monk-fruit",12-Pack
+P132,Proten Shake,plant-based,monk-fruit,4-Pack
+P133,Protein bar ,"diabetic-friendly, vegan, clean-label, gluten-free","pea-protein, stevia, collagen",4-Pack
+P134,Protein bar ,"clean-label, high-protein, nut-free","whey, collagen, monk-fruit",Single
+P135,Electrolyte Drink,"gluten-free, low-sugar, plant-based, vegan",pea-protein,Single
+P136,Electrolyte Drink,"high-protein, nut-free","stevia, collagen, oats",4-Pack
+P137,Protein Shake,kosher,"oats, whey",Single
+P138,Meal Replacement,"nut-free, jain-friendly","soy, oats, pea-protein",Single
+P139,Healthy Snack,"high-protein, low-sugar, clean-label, jain-friendly",monk-fruit,Single
+P140,Electrolyte Drink,"vegan, plant-based, keto-friendly","soy, collagen, monk-fruit",Single
+P141,Healthy Snack,"gluten-free, kosher, diabetic-friendly","almond-flour, collagen",4-Pack
+P142,Protein Shake,"gluten-free, high-protein, jain-friendly, kosher","almond-flour, oats",12-Pack
+P143,Protein Bar,"nut-free, kosher, keto-friendly","stevia, oats, almond-flour",Single
+P144,Meal Replacement,"halal, diabetic-friendly, low-sugar","monk-fruit, collagen",4-Pack
+P145,Healthy Snack,"gluten-free, jain-friendly, plant-based","whey, stevia",Single
+P146,Protein Shake,"diabetic-friendly, plant-based","whey, collagen, monk-fruit",Single
+P147,Proten Shake,"jain-friendly, diabetic-friendly","monk-fruit, stevia",Single
+P148,Protein Bar,"jain-friendly, halal, clean-label, diabetic-friendly","soy, monk-fruit",Single
+P149,Protein Bar,clean-label,"oats, stevia, collagen",Single
+P150,Meal Replacement,"halal, low-sugar","oats, monk-fruit, almond-flour",Single

@@ -1,0 +1,4 @@
+income_bracket,n_transactions,median_price,pct_in_entry_mass,pct_in_premium_luxury,avg_price
+Medium,20660,15.67,63.3,18.2,22.89
+High,8366,15.91,62.4,17.6,22.75
+Low,12246,15.01,64.6,16.6,22.03

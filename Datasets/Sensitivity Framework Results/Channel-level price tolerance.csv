@@ -1,0 +1,6 @@
+channel,n_transactions,avg_price,median_price,p75_price,p90_price,pct_in_entry_mass,pct_in_premium_luxury,total_revenue
+App,8193,23.14,15.91,27.51,49.18,62.3,18.3,384758
+Retail,8173,22.51,15.74,26.92,47.5,63.4,17.2,384105
+"Gym Kiosk",8262,22.82,15.72,27.16,47.9,63.1,17.5,400168
+Website,8326,22.46,15.5,27.16,47.5,64.1,17.6,387234
+Marketplace,8318,22.13,14.75,26.96,46.15,64.6,17.3,458430

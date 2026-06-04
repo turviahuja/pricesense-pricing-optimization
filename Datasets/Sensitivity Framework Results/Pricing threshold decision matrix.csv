@@ -1,0 +1,5 @@
+threshold_price,threshold_type,pct_demand_lost,recommendation
+$15,"Soft threshold","42% drop in $5-bin from $10–15 to $15–20","Price just below $15 to maximise mass-market volume"
+$20,"HARD CLIFF","54% drop from mass to mid bucket","DO NOT cross $20 for budget/casual products without clear differentiation"
+$35,"Premium boundary","41% drop from mid to premium bucket","Only cross $35 with trend claims (supplement, meal replacement) or App/Gym channel"
+$55,"Luxury threshold","41% drop from premium to luxury bucket","Reserve for high-margin supplement/meal-replacement SKUs with clean-label claims"

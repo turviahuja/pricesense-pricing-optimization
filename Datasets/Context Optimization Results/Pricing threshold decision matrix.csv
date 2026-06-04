@@ -1,0 +1,13 @@
+claim,n_transactions,median_price,p75_price,pct_premium_luxury,revenue_per_txn,claim_premium_verdict
+vegan,8853,21.28,39.16,30.9,61.2,"HIGH premium power — justifies $35+"
+halal,7595,17.04,33.69,24.6,50.25,"MODERATE — supports $20–35 range"
+low-sugar,8026,14.51,32.59,22.7,57.99,"MODERATE — supports $20–35 range"
+gluten-free,10702,14.07,25.9,18.3,48.11,"MODERATE — supports $20–35 range"
+keto-friendly,7144,19.06,30.21,16.3,57.34,"MODERATE — supports $20–35 range"
+high-protein,8499,21.33,28.66,16.1,51.72,"MODERATE — supports $20–35 range"
+jain-friendly,8867,14.54,21.84,16.1,46.1,"MODERATE — supports $20–35 range"
+diabetic-friendly,8565,15.86,25.1,15.3,49.36,"MODERATE — supports $20–35 range"
+kosher,9791,13.74,22.12,15.3,39.43,"MODERATE — supports $20–35 range"
+clean-label,9120,20.01,25.08,14.2,58.37,"LOW — commodity, compete on volume"
+plant-based,7721,13.82,21.55,10.9,40.05,"LOW — commodity, compete on volume"
+nut-free,6480,14.23,18.62,5.0,32.12,"LOW — commodity, compete on volume"

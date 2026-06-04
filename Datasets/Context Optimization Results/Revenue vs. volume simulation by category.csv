@@ -1,0 +1,7 @@
+category,n_transactions,avg_price,current_revenue,elasticity,revenue_if_raise_10pct,rev_delta_raise,revenue_if_cut_10pct,rev_delta_cut,pricing_verdict
+Supplement,4221,29.37,287917,0.6,297706,9789,274673,-13244,"RAISE — net positive"
+"Meal Replacement",6776,26.9,395676,0.8,400424,4748,384597,-11079,"RAISE — net positive"
+"Protein Shake",8853,23.55,440375,1.0,435971,-4404,435971,-4404,"HOLD — neither raises net revenue"
+"Healthy Snack",5750,16.86,201039,1.5,187971,-13068,208075,7036,"CUT — volume play"
+"Electrolyte Drink",5041,17.35,178904,1.6,165307,-13597,186776,7872,"CUT — volume play"
+"Protein Bar",9449,18.01,365146,1.4,345428,-19718,374640,9494,"CUT — volume play"

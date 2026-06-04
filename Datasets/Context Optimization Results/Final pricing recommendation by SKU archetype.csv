@@ -1,0 +1,9 @@
+sku_archetype,recommended_price_range,target_channel,target_geo,target_occasion,evidence
+"Vegan Meal Replacement",$45–55,"App, Gym Kiosk","Colorado, New York, California (Tier 3)","gym, marathon-prep","77.5% in D+E; gluten-free variant adds 62% D+E; premium occasions sustain $50+"
+"Keto Supplement",$40–50,"App, Website","Colorado, California (any tier)","gym, religious-fasting","61.4% in D+E; keto×supplement combo median $42.38; App channel adds 8% premium"
+"Vegan Supplement",$38–48,App,"New York, California (Tier 1, 2)","on-the-go, gym","57.7% in D+E; plant-based ingredient tag has median $104 at upper extreme"
+"High-Protein Protein Shake",$26–35,"App, Gym Kiosk","Colorado, New York (Tier 2, 3)","gym, marathon-prep","47.9% in D+E; high-protein×Protein Shake median $28.16; fits just below $35 cliff"
+"Clean-Label Meal Replacement",$24–32,"App, Website","California, New York (Tier 1)","daily snack, on-the-go","31.8% in D+E; clean-label×Meal Repl median $25.14; avoid $35+ until claims proven"
+"Standard Protein Bar",$12–18,"Marketplace, Retail","Texas, Georgia, Florida (all tiers)","late-night, road-trip","Only 9.6% in D+E; most elastic category (e=1.4); compete on volume, not margin"
+"Electrolyte Drink",$10–15,"Marketplace, Retail","All states — volume positioning","gym, on-the-go, daily snack","Only 3.9% in D+E; most elastic (e=1.6); -10% price simulation adds $7,872 revenue"
+"Late-Night Bundle (Meal Repl + Protein Bar)",$16–22,"App, Website","Tier 1 cities — all states",late-night,"Largest revenue block (24.9%); Meal Repl commands med $16.28 in late-night; upgrade mix"

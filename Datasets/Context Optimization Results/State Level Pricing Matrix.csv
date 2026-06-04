@@ -1,0 +1,9 @@
+state,n_transactions,median_price,avg_price,pct_premium_luxury,total_revenue,revenue_per_txn,state_pricing_tier
+Colorado,4072,16.44,23.81,19.5,191490,47.03,"PREMIUM state — support +5–10% pricing"
+California,8240,16.16,23.06,18.8,379327,46.03,"PREMIUM state — support +5–10% pricing"
+"New York",8317,16.11,23.43,19.0,391591,47.08,"PREMIUM state — support +5–10% pricing"
+Illinois,4152,15.69,22.58,17.3,204501,49.25,"MID state — standard pricing"
+Florida,4079,14.83,22.04,16.0,196289,48.12,"MID state — standard pricing"
+Washington,4148,14.83,21.83,16.1,198807,47.93,"MID state — standard pricing"
+Georgia,4105,14.5,21.42,16.0,225361,54.9,"MID state — standard pricing"
+Texas,4159,14.35,21.46,15.5,227328,54.66,"VOLUME state — price defensively"

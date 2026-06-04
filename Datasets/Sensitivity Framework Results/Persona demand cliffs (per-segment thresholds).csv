@@ -1,0 +1,17 @@
+persona,transition_to,n_transactions,prev_bucket_n,pct_drop,cliff_severity
+budget,"B: 10–20 (mass)",3906,2182,-79.0,Gradual
+budget,"C: 20–35 (mid)",1871,3906,52.1,"HARD CLIFF"
+budget,"D: 35–55 (premium)",1070,1871,42.8,CLIFF
+budget,"E: 55+ (luxury)",608,1070,43.2,CLIFF
+casual,"B: 10–20 (mass)",4035,2167,-86.2,Gradual
+casual,"C: 20–35 (mid)",1840,4035,54.4,"HARD CLIFF"
+casual,"D: 35–55 (premium)",1026,1840,44.2,CLIFF
+casual,"E: 55+ (luxury)",646,1026,37.0,CLIFF
+fitness,"B: 10–20 (mass)",3907,2337,-67.2,Gradual
+fitness,"C: 20–35 (mid)",1914,3907,51.0,"HARD CLIFF"
+fitness,"D: 35–55 (premium)",1119,1914,41.5,CLIFF
+fitness,"E: 55+ (luxury)",656,1119,41.4,CLIFF
+premium,"B: 10–20 (mass)",3993,2181,-83.1,Gradual
+premium,"C: 20–35 (mid)",1768,3993,55.7,"HARD CLIFF"
+premium,"D: 35–55 (premium)",1096,1768,38.0,CLIFF
+premium,"E: 55+ (luxury)",618,1096,43.6,CLIFF

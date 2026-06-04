@@ -1,0 +1,17 @@
+city_tier,occasion,n_transactions,pct_within_tier,median_price,revenue_per_txn
+"Tier 1",late-night,7753,47.4,15.74,45.89
+"Tier 1",religious-fasting,1579,9.7,16.09,47.9
+"Tier 1",festive,1203,7.4,14.58,43.85
+"Tier 1",on-the-go,1207,7.4,16.37,45.1
+"Tier 1","daily snack",1193,7.3,14.58,45.24
+"Tier 1",gym,1136,7.0,15.67,46.81
+"Tier 1",road-trip,1151,7.0,15,46.63
+"Tier 1",marathon-prep,1119,6.8,14.71,45.85
+"Tier 3",religious-fasting,1408,16.5,15.8,56.03
+"Tier 3",on-the-go,1079,12.6,15.12,57.47
+"Tier 3",festive,1056,12.4,14.93,56.06
+"Tier 3","daily snack",1031,12.1,16.11,56.06
+"Tier 3",late-night,1034,12.1,15.74,58.36
+"Tier 3",gym,1006,11.8,17.68,61.39
+"Tier 3",road-trip,982,11.5,14.97,55.56
+"Tier 3",marathon-prep,948,11.1,15.67,60.04

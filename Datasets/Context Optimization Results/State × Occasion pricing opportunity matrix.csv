@@ -1,0 +1,21 @@
+state,occasion,n_transactions,median_price,pct_premium,revenue_per_txn
+Colorado,gym,405,18.21,22.2,45.69
+Florida,religious-fasting,541,17.16,14.2,49.48
+"New York",religious-fasting,1159,16.9,20.8,48.96
+Colorado,marathon-prep,377,16.8,20.7,52.45
+California,gym,827,16.75,19.0,46.16
+"New York",gym,835,16.68,20.5,49.76
+Colorado,"daily snack",419,16.67,19.8,47.12
+Colorado,late-night,1059,16.46,19.4,46.26
+"New York",on-the-go,827,16.43,20.0,47.62
+California,religious-fasting,1092,16.43,19.3,45.36
+California,on-the-go,857,16.41,18.9,48.62
+California,marathon-prep,799,16.38,22.3,49.36
+California,late-night,2205,16.35,18.1,44.69
+Illinois,late-night,1074,16.29,15.5,48.01
+Colorado,on-the-go,445,16.27,17.5,45.57
+Colorado,religious-fasting,569,16.25,17.4,47.5
+California,"daily snack",801,16.2,19.5,48.44
+Illinois,road-trip,419,16.11,19.6,51.09
+Colorado,road-trip,385,16.1,20.0,46.2
+Washington,gym,424,15.92,18.6,50.95

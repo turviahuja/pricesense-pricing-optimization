@@ -1,0 +1,5 @@
+price_bucket,n_transactions,prev_bucket_n,pct_demand_drop,threshold_classification
+"B: 10–20 (mass)",16820,9390,-79.1,"Gradual decline"
+"C: 20–35 (mid)",7803,16820,53.6,"HARD CLIFF — avoid crossing"
+"D: 35–55 (premium)",4574,7803,41.4,"CLIFF — price with caution"
+"E: 55+ (luxury)",2685,4574,41.3,"CLIFF — price with caution"
