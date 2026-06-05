@@ -1,14 +1,10 @@
 -- ============================================================
 --  PriceSense · Phase 0: Data Audit & Cleaning
---  Author  : Analytics Taskforce (McKinsey/Bain/BCG style)
---  Purpose : Build a reliable master dataset for downstream
---            pricing sensitivity analysis.
---  Dialect : MySQL 8.0+
 -- ============================================================
 
 
 -- ────────────────────────────────────────────────────────────
--- STEP 1: SOURCE TABLE DEFINITIONS (as loaded from CSV)
+-- STEP 1: SOURCE TABLE DEFINITIONS 
 -- ────────────────────────────────────────────────────────────
 
 /*
