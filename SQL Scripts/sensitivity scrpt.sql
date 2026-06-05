@@ -1,25 +1,5 @@
 -- ============================================================
 --  PriceSense · Phase 1: Sensitivity Framework
---  Author  : Analytics Taskforce (MBB-grade)
---  Purpose : Find exact price thresholds, compare segment
---            sensitivity, and identify channel tolerance
---  Source  : master_pricesense (data_flag = 'clean' only)
---  Dialect : MySQL 8.0+
--- ============================================================
---
---  CONVERSION NOTES (PostgreSQL → MySQL):
---  ① PERCENTILE_CONT(p) WITHIN GROUP (ORDER BY price)
---      → Replaced throughout with a two-step CTE pattern:
---        Step A  CUME_DIST() OVER (PARTITION BY <group> ORDER BY price)
---        Step B  MIN(CASE WHEN cd >= p THEN price END)
---        This implements the nearest-rank method, which matches
---        PERCENTILE_CONT behaviour on large datasets.
---  ② Query 1 restructured into agg + medians CTEs and then
---      joined, because MySQL cannot mix PERCENTILE_CONT with
---      SUM(COUNT(*)) OVER() in a single GROUP BY SELECT.
---  ③ FROM (VALUES (…),(…)) AS t(col1,col2,…) [summary query]
---      → Replaced with SELECT … UNION ALL SELECT … subquery,
---        which is the MySQL-compatible equivalent.
 -- ============================================================
 
 
